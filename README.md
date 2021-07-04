@@ -2,6 +2,6 @@
 created for my practice.
 
 ---
-*test list1
-*test list2
-*test list3
+* test list1
+* test list2
+* test list3
