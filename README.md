@@ -1,7 +1,1 @@
-# testRepository
-created for my practice.
-
----
-* test list1
-* test list2
-* test list3
+# こちらは研究への導入のためのファイルをおいています．
